@@ -17,7 +17,7 @@ The next step was to clean up, dropping all lines with data missing. As the data
 
 Features selection were based on the three pillars: 
 1. general information about the interviewed; 
-2. all chronic diseases covered by the PNS-219;
+2. all chronic diseases covered by the PNS-2019;
 3. risk factors for heart diseases recommended by CDC Center for Disease Control and Prevention, USA (https://www.cdc.gov/chronicdisease/resources/publications/factsheets/heart-disease-stroke.htm) and WHO World Health Organization (https://www.who.int/health-topics/cardiovascular-diseases#tab=tab_1).
 
 **Prediction of heart disease**
